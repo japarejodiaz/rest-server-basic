@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb5e18b-8d87-4c88-ad6a-f4a168a78523" name="Changes" comment="" />
+    <list default="true" id="acb5e18b-8d87-4c88-ad6a-f4a168a78523" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/database/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/db-validators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/validar-campos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/role.models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/usuarios.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/usuarios.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +49,6 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/jesus/WebstormProjects/07-rest-server",
     "node.js.detected.package.eslint": "true",
@@ -72,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696651437984</updated>
       <workItem from="1696651439482" duration="3839000" />
-      <workItem from="1696655672871" duration="9234000" />
+      <workItem from="1696655672871" duration="32235000" />
     </task>
     <servers />
   </component>
